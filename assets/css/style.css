@@ -10,6 +10,14 @@
   body {
     background-color: #0A0F16;
     background-size: 20%;
+    /* overflow: hidden; */
+    /* height: 100dvh; */
+    /* width: 100dvw; */
+    margin: 0 auto;
+    padding: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
   }
 
   #tooltip {
@@ -118,6 +126,7 @@
 
   .logoImg {
     height: 15rem;
+    margin: 5%;
     width: 15rem;
   }
 
